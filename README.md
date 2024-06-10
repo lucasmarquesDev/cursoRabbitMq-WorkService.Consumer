@@ -1,0 +1,1 @@
+# cursoRabbitMq-WorkService.Consumer
